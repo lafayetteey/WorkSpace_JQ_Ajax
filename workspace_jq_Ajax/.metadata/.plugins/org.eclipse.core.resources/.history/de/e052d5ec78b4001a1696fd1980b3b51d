@@ -1,0 +1,9 @@
+function makeTable(elem) {
+	$table = $("<table border=1>");
+	
+	for(var i=0; i<1; i++) {
+		$tr = $("<tr>")
+	}
+	
+	
+};

@@ -1,0 +1,5 @@
+function makeTable(elem) {
+	$table = $("<table border=1>");
+	
+	
+};
